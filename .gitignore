@@ -35,7 +35,6 @@ hs_err_pid*
 .idea/**/dictionaries
 .idea/**/shelf
 .idea/
-
 # Generated files
 .idea/**/contentModel.xml
 
@@ -213,4 +212,5 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 
+/.idea/
 /.idea/
